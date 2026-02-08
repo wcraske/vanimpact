@@ -7,6 +7,7 @@ import CharacterCards from './components/CharacterCards';
 import LatestUpdates from './components/LatestUpdates';
 import AboutUs from './components/AboutUs';
 import Footer from './components/Footer';
+import LeagueTeams from './components/LeagueTeams';
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
       <Video />
       <SocialMedia />
       <CharacterCards />
+      <LeagueTeams />
       <LatestUpdates />
       <AboutUs />
       <Footer />
