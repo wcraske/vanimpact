@@ -19,7 +19,7 @@ export default function CharacterCards() {
           <div className="text-center md:text-left">
             {/* <p className="text-sm text-gray-400 mb-2">Name &quot;name&quot; name</p>*/}
             <p className="text-sm text-gray-400 mb-2">TOP LANE </p>
-            <h2 className="text-3xl md:text-4xl text-white font-bold italic">DRAGOON</h2>
+            <h2 className="text-3xl md:text-4xl text-white font-bold italic">TOPABLO</h2>
           </div></div>
           
           {/* Mobile: Photo below text */}
@@ -44,7 +44,7 @@ export default function CharacterCards() {
           <div className="text-center md:text-left">
             {/* <p className="text-sm text-gray-400 mb-2">Name &quot;name&quot; name</p>*/}
             <p className="text-sm text-gray-400 mb-2">JUNGLE </p>
-            <h2 className="text-3xl md:text-4xl text-white font-bold italic">SHIMMER</h2>
+            <h2 className="text-3xl md:text-4xl text-white font-bold italic">MATTY</h2>
           </div></div>
           
           {/* Mobile: Photo below text */}
@@ -69,7 +69,7 @@ export default function CharacterCards() {
           <div className="text-center md:text-left">
             {/* <p className="text-sm text-gray-400 mb-2">Name &quot;name&quot; name</p>*/}
             <p className="text-sm text-gray-400 mb-2">MID LANE </p>
-            <h2 className="text-3xl md:text-4xl text-white font-bold italic">SUDZZI</h2>
+            <h2 className="text-3xl md:text-4xl text-white font-bold italic">SIRZEPRE</h2>
           </div></div>
           
           {/* Mobile: Photo below text */}
@@ -94,7 +94,7 @@ export default function CharacterCards() {
           <div className="text-center md:text-left">
             {/* <p className="text-sm text-gray-400 mb-2">Name &quot;name&quot; name</p>*/}
             <p className="text-sm text-gray-400 mb-2">BOT LANE </p>
-            <h2 className="text-3xl md:text-4xl text-white font-bold italic">ZEV</h2>
+            <h2 className="text-3xl md:text-4xl text-white font-bold italic">WARCYCLONE</h2>
           </div></div>
           
           {/* Mobile: Photo below text */}
@@ -119,7 +119,7 @@ export default function CharacterCards() {
           <div className="text-center md:text-left">
             {/* <p className="text-sm text-gray-400 mb-2">Name &quot;name&quot; name</p>*/}
             <p className="text-sm text-gray-400 mb-2">SUPPORT </p>
-            <h2 className="text-3xl md:text-4xl text-white font-bold italic">NUKEZ</h2>
+            <h2 className="text-3xl md:text-4xl text-white font-bold italic">MIRACLE</h2>
           </div></div>
           
           {/* Mobile: Photo below text */}
@@ -145,7 +145,7 @@ export default function CharacterCards() {
           <div className="text-center md:text-left">
             {/* <p className="text-sm text-gray-400 mb-2">Name &quot;name&quot; name</p>*/}
             <p className="text-sm text-gray-400 mb-2">COACH </p>
-            <h2 className="text-3xl md:text-4xl text-white font-bold italic">TAKI</h2>
+            <h2 className="text-3xl md:text-4xl text-white font-bold italic">STUNNER</h2>
           </div></div>
           
           {/* Mobile: Photo below text */}

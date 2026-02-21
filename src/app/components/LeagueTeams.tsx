@@ -33,11 +33,11 @@ export default function LeagueTeams() {
           <ul className="text-white space-y-3 text-lg md:text-xl">
             <li className="flex items-center gap-3">
               <img src="/Top_icon.webp" alt="Top icon" className="w-6 h-6" />
-              <span>Top: Marcopa</span>
+              <span>Top: MarcoPa</span>
             </li>
             <li className="flex items-center gap-3">
               <img src="/Jungle_icon.webp" alt="Jungle icon" className="w-6 h-6" />
-              <span>Jungle: TBD</span>
+              <span>Jungle: Wardy</span>
             </li>
             <li className="flex items-center gap-3">
               <img src="/Middle_icon.webp" alt="Middle icon" className="w-6 h-6" />
@@ -45,11 +45,15 @@ export default function LeagueTeams() {
             </li>
             <li className="flex items-center gap-3">
               <img src="/Bottom_icon.webp" alt="Bottom icon" className="w-6 h-6" />
-              <span>Bottom: TBD</span>
+              <span>Bottom: Fuzz</span>
             </li>
             <li className="flex items-center gap-3">
               <img src="/Support_icon.webp" alt="Support icon" className="w-6 h-6" />
               <span>Support: Marshal</span>
+            </li>
+            <li className="flex items-center gap-3">
+              <img src="/Support_icon.webp" alt="Support icon" className="w-6 h-6" />
+              <span>Coach: Stunner</span>
             </li>
           </ul>
         </div>
@@ -77,11 +81,11 @@ export default function LeagueTeams() {
           <ul className="text-white space-y-3 text-lg md:text-xl">
             <li className="flex items-center gap-3">
               <img src="/Top_icon.webp" alt="Top icon" className="w-6 h-6" />
-              <span>Top: Chia</span>
+              <span>Top: Tangy</span>
             </li>
             <li className="flex items-center gap-3">
               <img src="/Jungle_icon.webp" alt="Jungle icon" className="w-6 h-6" />
-              <span>Jungle: Peekaboo</span>
+              <span>Jungle: TBD</span>
             </li>
             <li className="flex items-center gap-3">
               <img src="/Middle_icon.webp" alt="Middle icon" className="w-6 h-6" />
@@ -89,11 +93,15 @@ export default function LeagueTeams() {
             </li>
             <li className="flex items-center gap-3">
               <img src="/Bottom_icon.webp" alt="Bottom icon" className="w-6 h-6" />
-              <span>Bottom: Ivy</span>
+              <span>Bottom: SilentShroud</span>
             </li>
             <li className="flex items-center gap-3">
               <img src="/Support_icon.webp" alt="Support icon" className="w-6 h-6" />
-              <span>Support: Zach</span>
+              <span>Support: ShadowKeeper</span>
+            </li>
+            <li className="flex items-center gap-3">
+              <img src="/Support_icon.webp" alt="Support icon" className="w-6 h-6" />
+              <span>Coach: Choros</span>
             </li>
           </ul>
         </div>
